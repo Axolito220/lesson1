@@ -7,7 +7,6 @@ CREATE TABLE students (
     smoker BOOLEAN NOT NULL DEFAULT FALSE,
     drinks_alcohol_weekly BOOLEAN NULL
 );
-
 INSERT INTO students (
     last_name,
     first_name,
